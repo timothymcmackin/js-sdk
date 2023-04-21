@@ -1,6 +1,8 @@
 # @rarimo/react-nft-checkout
 Features of the Rarimo SDK that provide React components to manage cross-train transactions with the Rarimo protocol.
 
+This package requires Node 18 or later.
+
 # Examples
 
 For example applications, see [rarimo/js-sdk-examples](https://github.com/rarimo/js-sdk-examples/) on GitHub.

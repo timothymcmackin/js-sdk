@@ -6,6 +6,8 @@ Features of the Rarimo SDK that create cross-chain transactions based on the Rar
 ![tree-shaking](https://badgen.net/bundlephobia/tree-shaking/@rarimo/nft-checkout)
 ![checks](https://badgen.net/github/checks/distributed-lab/web-kit/main)
 
+This package requires Node 18 or later.
+
 ## Example
 
 For example applications, see [rarimo/js-sdk-examples](https://github.com/rarimo/js-sdk-examples/) on GitHub.
